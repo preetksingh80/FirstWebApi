@@ -1,0 +1,8 @@
+c:\Projects\Learning\firstAspNetCore\FirstWebApi\bin\Debug\netcoreapp1.1\FirstWebApi.deps.json
+c:\Projects\Learning\firstAspNetCore\FirstWebApi\bin\Debug\netcoreapp1.1\FirstWebApi.runtimeconfig.json
+c:\Projects\Learning\firstAspNetCore\FirstWebApi\bin\Debug\netcoreapp1.1\FirstWebApi.runtimeconfig.dev.json
+c:\Projects\Learning\firstAspNetCore\FirstWebApi\bin\Debug\netcoreapp1.1\FirstWebApi.dll
+c:\Projects\Learning\firstAspNetCore\FirstWebApi\bin\Debug\netcoreapp1.1\FirstWebApi.pdb
+c:\Projects\Learning\firstAspNetCore\FirstWebApi\obj\Debug\netcoreapp1.1\FirstWebApi.AssemblyInfo.cs
+c:\Projects\Learning\firstAspNetCore\FirstWebApi\obj\Debug\netcoreapp1.1\FirstWebApi.dll
+c:\Projects\Learning\firstAspNetCore\FirstWebApi\obj\Debug\netcoreapp1.1\FirstWebApi.pdb
